@@ -1,0 +1,42 @@
+@media all and (min-width: 2800px) {
+  html {
+    font-size: 2em;
+  }
+}
+
+@media all and (min-width: 2200px) and (max-width: 2799px) {
+  html {
+    font-size: 1.5em;
+  }
+}
+
+@media all and (max-width: 1280px) {
+  html {
+    font-size: 0.8em;
+  }
+}
+
+@media all and (max-width: 980px) {
+  html {
+    font-size: 1em;
+  }
+}
+
+@media all and (max-width: 736px) {
+	html {
+      font-size: 0.9em;
+    }
+}
+
+@media all and (max-width: 480px) {
+  html {
+    font-size: 0.7em;
+  }
+}
+
+@media all and (orientation: portrait) {
+	#interaction-notes {
+		text-align: center;
+		bottom: 1em;
+	}
+}
