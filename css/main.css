@@ -47,7 +47,7 @@ canvas {
 }
 
 #intro {
-  margin-top: 3em;
+  margin-top: 5em;
 }
 
 #intro p {
@@ -58,6 +58,7 @@ canvas {
 
 #links {
   position: fixed;
+  width: 100%;
   left: 0px;
   bottom: 0px;
   margin-bottom: 7em;
@@ -67,7 +68,6 @@ canvas {
 #links h2 {
   margin: 0.1em 0px;
   font-size: 3em;
-  margin: 0px;
 }
 
 #links h2 a {
@@ -88,7 +88,7 @@ canvas {
   font-size: 1.5em;
   position: absolute;
   right: 0px;
-  bottom: 3em;
+  bottom: 2em;
   width: 100%;
   text-align: right;
 }
